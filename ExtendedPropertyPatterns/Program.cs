@@ -14,7 +14,7 @@
         /// </summary>
         static void TestEmployeeCsharp9x()
         {
-            Employee employee = new Employee();
+            Employee employee = new Employee(); 
             employee.Name = "Greg Esguerra";
             employee.EmployeeDepartment.DepartmentName = "IT";
 
